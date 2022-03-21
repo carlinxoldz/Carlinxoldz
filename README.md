@@ -1,6 +1,7 @@
+<!--
 <div>
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/carlinxoldz/fb9013c3ac1952d8720c84f60eae0d34/raw/9d6d296694ec93a5331eac1fe28269feff0f5e7a/githubcard.svg" />
-
+-->
 ## Olá, eu sou o Carlos Silva👋
 
 
