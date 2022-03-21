@@ -29,13 +29,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="40" align="right"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="40" align="right" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="40" align="right"/>
+  
+  <div>
+    <a href="https://www.linkedin.com/in/carlos-guilherme-de-sousa-silva-12b67b190/" target="_blank">  
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <a/> 
+  <div/>
 <div/> 
   
 ##
   
-<div>
-  <a href="https://www.linkedin.com/in/carlos-guilherme-de-sousa-silva-12b67b190/" target="_blank">  
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  <a/> 
-<div/>
+
   
