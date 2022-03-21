@@ -1,5 +1,11 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/carlinxoldz/fb9013c3ac1952d8720c84f60eae0d34/raw/9d6d296694ec93a5331eac1fe28269feff0f5e7a/githubcard.svg" />
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="40" align="right" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="40" align="right" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40" align="right"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="40" align="right"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="40" align="right"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="40" align="right" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="40" align="right"/>
 ## Olá, eu sou o Carlos Silva👋
 
 
@@ -16,13 +22,6 @@
   <a href="https://github.com/carlinxoldz">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=carlinxoldz&show_icons=true&theme=dark&includell_commits=true&count_private=true" />
   <img height="250em" width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlinxoldz&layout=compact=langs_count=16&theme=dark" align="left" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="40" align="center" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="40" align="center"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40" align="center"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="40" align="center"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="40" align="center"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="40" align="center" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="40" align="center"/>
 <div/>
 
 
