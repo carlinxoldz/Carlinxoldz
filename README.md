@@ -1,14 +1,17 @@
-<!--
+
 <div>
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/carlinxoldz/fb9013c3ac1952d8720c84f60eae0d34/raw/9d6d296694ec93a5331eac1fe28269feff0f5e7a/githubcard.svg" />
--->
+
 ## Olá, eu sou o Carlos Silva👋
 
 
 - 🔭 Hoje estou procurando minha primeira oportunidade
 - 🌱 Estudando ReactJs e typescript
 - 📫 contate-me pelo email: carlosxoldz@gmail.com
-- 😄 Pronouns: ele/dele
+
+## Sobre mim
+- Meu nome é Carlos, atualmente trabalho com engenharia civil mas a mais ou menos um ano e meio me apaixonei pela programação, desde então estou tentando realizar uma transição de carreira. Hoje sou focado em aprender e trabalhar com desenvolvimento frontend, mas futuramente quero também desenvolver no backend. Sou focado, minucioso e detalhista quanto ao desenvolvimento do código.
+
 
 ## Github Analytics
 
