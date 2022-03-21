@@ -30,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="40" align="right"/>
 <div/> 
   
- ##
+##
   
 <div>
   <a href="https://www.linkedin.com/in/carlos-guilherme-de-sousa-silva-12b67b190/" target="_blank">  
