@@ -13,7 +13,7 @@
 
 
 <div> 
-  <img height="140em" width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlinxoldz&layout=compact=langs_count=16&theme=dark" />  
+  <img height="140em" width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlinxoldz&layout=compact=langs_count=16&theme=dark" align="right" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="40" align="center" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="40" align="center"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40" align="center"/>
