@@ -9,7 +9,7 @@
 - 📫 contate-me pelo email: carlosxoldz@gmail.com
 - 😄 Pronouns: ele/dele
 
-## Tech Stack
+## Github Analytics
 
 
 <div> 
@@ -24,8 +24,6 @@
 <div/>
   
   ##
-  
-  ## Github Analytics
 
 <div >
   <a href="https://github.com/carlinxoldz">
@@ -36,7 +34,7 @@
 
 
   ##
-    
+
 <div>
   <a href="https://www.linkedin.com/in/carlos-guilherme-de-sousa-silva-12b67b190/" target="_blank">  
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
