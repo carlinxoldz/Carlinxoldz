@@ -20,15 +20,7 @@
 
 ##    
 
-<div>
-  <a href="https://www.linkedin.com/in/carlos-guilherme-de-sousa-silva-12b67b190/" target="_blank">  
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  <a/> 
-<div/>
-
- ##   
-    
- <div >
+<div >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="40" align="right" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="40" align="right" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40" align="right"/>
@@ -36,4 +28,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="40" align="right"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="40" align="right" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="40" align="right"/>
-<div/>  
+<div/> 
+  
+ ##
+  
+<div>
+  <a href="https://www.linkedin.com/in/carlos-guilherme-de-sousa-silva-12b67b190/" target="_blank">  
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a/> 
+<div/>
+  
