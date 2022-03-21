@@ -10,6 +10,7 @@
 - 😄 Pronouns: ele/dele
 
 ## Tech Stack
+<img height="140em" width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlinxoldz&layout=compact=langs_count=16&theme=dark" />  
 
 <div> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="40" align="center" />
@@ -20,6 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="40" align="center" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="40" align="center"/>
 <div/>
+  
   
   ## Github Analytics
 
