@@ -11,7 +11,7 @@
 ## Github Analytics
 
 <div> 
-    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlinxoldz&layout=compact=langs_count=16&theme=dark" align="left" />
+    <img height="250em" PHAT_1 src="https://github-readme-stats.vercel.app/api?/top-langs/?username=carlinxoldz&layout=compact=langs_count=16&theme=dark" align="left" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlinxoldz&show_icons=true&theme=dark" alt="carlos silva" />
 <div/>
 
