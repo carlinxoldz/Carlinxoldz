@@ -5,7 +5,7 @@
 - 📫 contate-me pelo email: carlosxoldz@gmail.com
 
 ## Sobre mim
-- Meu nome é Carlos, atualmente trabalho com engenharia civil mas a mais ou menos um ano e meio me apaixonei pela programação, desde então estou tentando realizar uma transição de carreira. Hoje sou focado em aprender e trabalhar com desenvolvimento frontend, mas futuramente quero também desenvolver no backend. Sou focado, minucioso e detalhista quanto ao desenvolvimento do código.
+- Meu nome é Carlos, atualmente trabalho com engenharia civil mas eu acabei me apaixonei pela programação, desde então estou tentando realizar uma transição de carreira. Hoje sou focado em aprender e trabalhar com desenvolvimento frontend, mas futuramente quero também desenvolver no backend e mobile. Sou minucioso e detalhista quanto ao desenvolvimento do código.
 
 
 ## Github Analytics
