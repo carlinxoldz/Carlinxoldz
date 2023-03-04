@@ -4,7 +4,7 @@
 - 📫 contate-me pelo email: carlosxoldz@gmail.com
 
 ## Sobre mim
-- Meu nome é Carlos, atualmente trabalho como estagiário de BI (BUsiness Inteligence), sou apaixonei pela programação. Hoje sou focado em aprender e trabalhar com desenvolvimento frontend e BI, mas futuramente quero também desenvolver no backend e mobile. Sou minucioso e detalhista quanto ao desenvolvimento do código.
+- Meu nome é Carlos, atualmente trabalho como estagiário de BI (Business Inteligence), sou apaixonei pela programação. Hoje sou focado em aprender e trabalhar com desenvolvimento frontend e BI, mas futuramente quero também desenvolver no backend e mobile. Sou minucioso e detalhista quanto ao desenvolvimento do código.
 
 ## Github Analytics
 
