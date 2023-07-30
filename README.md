@@ -1,6 +1,6 @@
 ## Olá, eu sou o Carlos Silva👋
 
-- 🌱 Estudo ReactJs e typescript, SQL e Qlik (ferramenta de BI)
+- 🌱 ReactJs, typescript, nodejs, SQL e Qlik (ferramenta de BI)
 - 📫 contate-me pelo email: carlosxoldz@gmail.com
 
 ## Sobre mim
