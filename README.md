@@ -7,6 +7,12 @@
 - Meu nome é Carlos, atualmente trabalho como estagiário de BI (Business Inteligence), sou apaixonado pela programação. Hoje sou focado em aprender e trabalhar com desenvolvimento frontend e BI, mas futuramente quero também desenvolver no backend e mobile. Sou minucioso e detalhista quanto ao desenvolvimento do código.
 
 ## Github Analytics
+<div> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlinxoldz&show_icons=true&theme=dark" alt="carlos silva" />
+<div/>
+
+
+##    
 
 
 <div >
