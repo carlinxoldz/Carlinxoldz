@@ -1,6 +1,7 @@
 ## Olá, eu sou o Carlos Silva👋
 
-- 🌱 ReactJs, typescript, nodejs, SQL e Qlik (ferramenta de BI)
+- 🌱 ReactJs, typescript, nodejs, SQL
+- 🌱 Qlik Sense, Qlik Saas, QlikView (Ferramentas de BI - Business Intelligence)
 - 📫 contate-me pelo email: carlosxoldz@gmail.com
 
 ## Sobre mim
